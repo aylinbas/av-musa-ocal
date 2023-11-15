@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--//TODO: set your project's colors and start build runner. After then remove this comment-->
+<resources>
+    <color name="black">#000000</color>
+    <color name="primary">#12121e</color>
+    <color name="gold">#8b6e52</color>
+    <color name="secondary">#DAC0A3</color>
+    <color name="light">#EADBC8</color>
+    <color name="cream">#F8F0E5</color>
+    <color name="white">#ffffff</color>
+</resources>
